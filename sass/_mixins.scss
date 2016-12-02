@@ -1,0 +1,11 @@
+@mixin widthSmall {
+    width:22%; 
+}
+
+@mixin widthLarge {
+    width: 50%;
+}
+
+@mixin widthMed {
+    width: 30%;
+}
